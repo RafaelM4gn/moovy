@@ -25,11 +25,7 @@ Before running the server, you need to set up the PostgreSQL database:
     ```
     pnpm install
     ```
-3. Run database migrations (if necessary):
-    ```
-    pnpm run typeorm migration:run
-    ```
-4. Start the server:
+3. Start the server:
     ```
     pnpm run start
     ```
