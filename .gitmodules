@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/RafaelM4gn/moovy-server
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RafaelM4gn/moovy-frontend
